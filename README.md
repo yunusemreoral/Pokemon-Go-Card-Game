@@ -2,7 +2,7 @@
 
 <li>Bu proje ReactJs,Css,PokeApı ile oluşturulmuş Pokemon kart oyunu içerir.</li>
 <li>Her bir pokemon kartına ait isim,tip,puan bilgisi yer alır.</li>
-
+<li>Kullanıcı dostu responsive tasarımı vardır.</li>
 
 # Kullanılan Teknolojiler 🎨
 
